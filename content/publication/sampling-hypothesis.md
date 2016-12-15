@@ -1,0 +1,8 @@
++++
+abstract="The inherent uncertainty of the world suggests that optimally-performing brains should use probabilistic internal models to represent it. This idea has provided a powerful explanation for a range of behavioural phenomena. But describing behaviour in probabilistic terms is not strong evidence that the brain itself explicitly uses probabilistic models. We sought to test whether neurons represent such models in higher cortical regions, learn them, and use them in behaviour. Using a sampling framework, we predicted that trial-evoked and sleeping population activity represent the inferred and expected probabilities generated from an internal model of a behavioural task, and would become more similar as the task was learnt. To test these predictions, we analysed population activity from rodent prefrontal cortex before, during, and after sessions of learning rules on a Y-maze. We found that population activity patterns occurred far in excess of chance on millisecond time-scales. During successful learning, distributions of these activity patterns increased in similarity between trials and post-learning sleep as predicted. Learning-induced changes were greatest for patterns expressed at the maze's choice point and predicting correct choice of maze arm to obtain reward, consistent with an updated internal model of the task. Our results suggest sample-based internal models are a general computational principle of cortex."
+authors=["Abhinav Singh", "Adrien Peyrache", "Mark Humphries"]
+date="2016-09-01"
+publication="bioRxiv"
+title="Task learning reveals neural signatures of internal models in rodent prefrontal cortex"
+url_pdf="http://biorxiv.org/content/early/2016/09/01/027102.full.pdf"
++++
